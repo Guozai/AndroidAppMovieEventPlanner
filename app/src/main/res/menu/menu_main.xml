@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuAddNew"
+        android:title="Add New" />
+
+    <item
+        android:id="@+id/menuViewCalendar"
+        android:title="View Calendar" />
+
+    <item
+        android:id="@+id/menuViewMap"
+        android:title="View Map" />
+
+    <item
+        android:id="@+id/menuAscending"
+        android:title="Ascending" />
+
+    <item
+        android:id="@+id/menuDescending"
+        android:title="Descending" />
+
+    <item
+        android:id="@+id/settings"
+        android:title="Settings" />
+
+
+</menu>

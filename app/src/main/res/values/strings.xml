@@ -1,0 +1,21 @@
+<resources>
+    <string name="add">ADD</string>
+    <string name="edit">EDIT</string>
+    <string name="done">DONE</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="remind_period">Remind again in below minute(s)</string>
+    <string name="threshold">Remind me before below minute(s)</string>
+    <string name="app_name">Movie Night Planner</string>
+    <string name="current_date">June, 2016</string>
+    <string name="add_event">ADD CALENDAR EVENT</string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="last_date">30</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
